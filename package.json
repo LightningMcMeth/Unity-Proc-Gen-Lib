@@ -1,0 +1,20 @@
+
+{
+  "name": "com.gitamend.ProcGenLib",
+  "version": "1.0.0",
+  "displayName": "ProcGenLib test",
+  "description": "This is an example package",
+  "unity": "2022.1",
+  "dependencies": {
+    "com.unity.mathematics": "1.3.3"
+ },
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Bazinga",
+    "url": "https://www.unity3d.com"
+  }
+}
