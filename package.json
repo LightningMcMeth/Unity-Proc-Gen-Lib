@@ -1,6 +1,6 @@
 
 {
-  "name": "com.gitamend.ProcGenLib",
+  "name": "com.gitamend.proc-gen-lib",
   "version": "1.0.0",
   "displayName": "ProcGenLib test",
   "description": "This is an example package",
